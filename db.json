@@ -1,0 +1,42 @@
+{
+  "user": [
+    {
+      "name": "s",
+      "email": "s@gmail.com",
+      "password": "123",
+      "id": 1
+    },
+    {
+      "name": "test",
+      "email": "test@gmail.com",
+      "password": "123",
+      "id": 2
+    },
+    {
+      "name": "sh",
+      "email": "sh@gmail.com",
+      "password": "123456",
+      "id": 3
+    }
+  ],
+  "task": [
+    {
+      "title": "rest",
+      "status": "pending",
+      "duedate": "2023-11-17",
+      "id": 5
+    },
+    {
+      "title": "abs",
+      "status": "pending",
+      "duedate": "2023-12-14",
+      "id": 6
+    },
+    {
+      "title": "abc",
+      "status": "pending",
+      "duedate": "2023-12-14",
+      "id": 7
+    }
+  ]
+}
